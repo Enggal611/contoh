@@ -15,10 +15,11 @@ class _daftarState extends State<daftar> {
         child: Center(
           child: Column(
             children: [
-              Text("Halaman Sign Up")
+              Text("BAGIAN HOME")
             ],
           ),
-        )),
+        ),
+      ),
     );
   }
 }
