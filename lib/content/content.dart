@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class daftar extends StatefulWidget {
-  const daftar({Key? key}) : super(key: key);
+class konten extends StatefulWidget {
+  const konten({Key? key}) : super(key: key);
 
   @override
-  State<daftar> createState() => _daftarState();
+  State<konten> createState() => _kontenState();
 }
 
-class _daftarState extends State<daftar> {
+class _kontenState extends State<konten> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
